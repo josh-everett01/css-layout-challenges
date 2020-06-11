@@ -1,0 +1,16 @@
+.div-1 {
+  background-color: darkolivegreen;
+  width: 350px;
+  height: 350px;
+  border-top: 25px solid white;
+  margin: auto;
+}
+
+.div-2 {
+  background-color: black;
+  color: white;
+  width: 150px;
+  height: 150px;
+  margin: auto;
+  border-top: 100px solid darkolivegreen;
+}
