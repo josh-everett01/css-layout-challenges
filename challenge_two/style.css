@@ -1,13 +1,11 @@
 #container {
   display: grid;
-  
-  grid-template-areas: "a . . . ."
-                       ". . b . ."
-                       ". . . . c";
-                       grid-column-gap: 210px;
 
-
-
+  grid-template-areas:
+    "a . . . ."
+    ". . b . ."
+    ". . . . c";
+  grid-column-gap: 210px;
 }
 
 div {
@@ -19,19 +17,15 @@ div {
 
 .div-1 {
   grid-area: a;
-
 }
 
 .div-2 {
   grid-area: b;
-  
+
   /* margin-left: 20rem; */
 }
 
 .div-3 {
   grid-area: c;
   /* margin-left: 18rem; */
-  
 }
-
-
