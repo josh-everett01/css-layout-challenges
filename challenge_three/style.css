@@ -1,4 +1,5 @@
 .div-1 {
+  align-content: center;
   background-color: darkolivegreen;
   width: 350px;
   height: 350px;
@@ -9,8 +10,10 @@
 .div-2 {
   background-color: black;
   color: white;
-  width: 150px;
-  height: 150px;
+  width: 200px;
+  height: 200px;
   margin: auto;
-  border-top: 100px solid darkolivegreen;
+  border-top: 50px solid darkolivegreen;
+  position: relative;
+  
 }
