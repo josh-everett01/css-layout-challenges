@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+}
+
+.div-1 {
+  position: relative;
+  height: 600px;
+  width: 350px;
+  background-color: grey;
+  color: white;
+}
+
+.div-2 {
+  position: absolute;
+  height: 400px;
+  width: 250px;
+  background-color: black;
+  bottom: 0;
+  right: 0;
+}
+
+.div-3 {
+  position: absolute;
+  height: 200px;
+  width: 200px;
+  background-color: rgb(189, 189, 189);
+  bottom: 1em;
+  right: 1em;
+}
