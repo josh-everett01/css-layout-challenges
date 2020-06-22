@@ -1,0 +1,35 @@
+* {
+  box-sizing: border-box;
+}
+
+p {
+  position: absolute;
+  left: 0;
+  top: -15px;
+}
+
+.div-1 {
+  display: inline-flex;
+  justify-content: space-around;
+  position: relative;
+  height: 600px;
+  width: 250px;
+  background-color: rgb(51, 51, 51);
+  color: white;
+}
+
+.div-2 {
+  position: absolute;
+  height: 150px;
+  width: 150px;
+  background-color: black;
+}
+.div-3 {
+  position: absolute;
+  height: 150px;
+  width: 150px;
+  background-color: black;
+  bottom: 0;
+  
+}
+
