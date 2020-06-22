@@ -1,0 +1,40 @@
+* {
+  box-sizing: border-box;
+}
+
+div {
+  width: 220px;
+  height: 220px;
+  color: white;
+}
+
+.div-1 {
+  background-color: black;
+}
+
+.div-2 {
+  position: relative;
+  bottom: 110px;
+  left: 110px;
+  background-color: grey;
+}
+.div-3 {
+  position: relative;
+  background-color: black;
+  bottom: 210px;
+  left: 210px;
+}
+
+.div-4 {
+  position: relative;
+  background-color: grey;
+  bottom: 310px;
+  left: 310px;
+}
+
+.div-5 {
+  position: relative;
+  background-color: black;
+  bottom: 410px;
+  left: 410px;
+}
