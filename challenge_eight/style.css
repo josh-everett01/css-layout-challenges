@@ -1,0 +1,20 @@
+* {
+  box-sizing: border-box;
+}
+
+.div-1 {
+  position: relative;
+  width: 350px;
+  height: 350px;
+  background-color: rgb(65, 65, 65);
+  color: white;
+}
+
+.div-2 {
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  background-color: black;
+  right: 0;
+  top: 0;
+}
