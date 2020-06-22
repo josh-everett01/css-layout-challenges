@@ -1,0 +1,22 @@
+.container {
+  position: relative;
+}
+
+.div-1 {
+  height: 350px;
+  width: 350px;
+  background-color: rgb(68, 68, 68);
+  color: white;
+  position: absolute;
+  right: 0;
+}
+
+.div-2 {
+  position: absolute;
+  height: 175px;
+  width: 175px;
+  background-color: black;
+  color: white;
+  left: 0;
+  bottom: 0;
+}
