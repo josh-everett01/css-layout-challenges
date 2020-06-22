@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+}
+
+.div-1 {
+  position: relative;
+  color: white;
+  height: 400px;
+  width: 400px;
+  background-color: grey;
+  
+}
+
+.div-2 {
+  position: absolute;
+  color: white;
+  height: 150px;
+  width: 150px;
+  background-color: black;
+  bottom: 0;
+  right: 0;
+}
